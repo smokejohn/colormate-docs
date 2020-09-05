@@ -32,9 +32,10 @@ Where to find it
 
 After installation the ColorMate addon can be found in the Shader Node Editor's side panel (Hotkey: N).
 
+If you want to use the ColorMate GUI in a different location in blender don't worry, you can dock the GUI in 3 locations. The locations can be configured in ColorMates Global Addon Preferences.
+
 .. image:: _static/images/bl_node_colormate.png
 
-If you want to use the ColorMate GUI in a different location in blender don't worry, you can dock the GUI in 3 locations. The locations can be configure in ColorMates Global Addon Preferences.
 
 
 Global Addon Preferences
