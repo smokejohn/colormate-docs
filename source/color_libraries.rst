@@ -19,9 +19,11 @@ Scene Library
 
 The Scene Library keeps the imported or created color swatches and palettes saved in the blender file itself. Its the perfect library to store your scene or blendfile specific color presets or schemes.
 
+Library operators
+#################
 
 Listview
-########
+********
 
 Gridview:
     Toggle button which switches the library between the two modes.
@@ -63,7 +65,7 @@ From:/ To:/ to Ramp:
     Enables the user to define a range of colors by selecting a color in the listview and then clicking on From: or To: to define the start and endpoint of the range. The numbers on the From- and To-buttons are the list indices of the colors and will update to the index of the currently selected color when clicked. The to Ramp-button will create a color ramp in the currently open material with the colors set to those in the selected From-To-Range. Negative From-To-ranges are allowed effectively reversing the color order in the ColorRamp-Node. There is a maximum range limit of 32 colors (colorramp node limitation).
 
 Gridview
-########
+********
 
 Search Bar / Filter:    
     Allows filtering the Gridview by a querystring. The Gridview updates after the user hits the return/enter key.

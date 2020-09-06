@@ -9,6 +9,8 @@ Welcome to colormate's documentation!
 .. image:: _static/images/colormate_banner.jpg
    :width: 600
 
+Promotional Feature Demo Video: https://www.youtube.com/watch?v=LZ7VR3bzvBk
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
