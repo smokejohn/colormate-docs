@@ -35,7 +35,14 @@ Swatch:
     Single click opens the color picker which lets you choose a color of your liking.
 
 Filter (Hidden until you click the little triangle arrow): 
-    Gives access to blenders list filtering options. Let's the user filter by name, sort the list alphabetically or in reverse order. Clicking the magnifying glass inverts the filtering and instead shows everything except the colors which match the querystring.
+    .. image:: _static/images/bl_colormate_library_listview_search.png
+
+    If your color palette has names for each colorswatch you can use the filter
+    to search for specific colors. Clicking the little triangle arrow gives
+    access to blenders list filtering options. Let's the user filter by
+    name, sort the list alphabetically or in reverse order. Clicking the 
+    magnifying glass inverts the filtering and instead shows everything except
+    the colors which match the querystring.
 
 Add: 
     Adds a new color swatch to the palette, by default its added at the bottom of the list. Name is set to "Color#" and the swatchcolor is set to white.
@@ -68,4 +75,7 @@ Gridview
 ********
 
 Search Bar / Filter:    
-    Allows filtering the Gridview by a querystring. The Gridview updates after the user hits the return/enter key.
+    .. image:: _static/images/bl_colormate_library_gridview_search.png
+
+    Allows filtering of the colors by a querystring. The Gridview updates after the user hits the return/enter key.
+    Colors in the palette need to have names.
